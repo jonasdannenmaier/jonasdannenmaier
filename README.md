@@ -1,43 +1,22 @@
-## # Jonas Dannenmaier
+# Jonas Dannenmaier
 
-Founder & Product Builder at [Staturion](https://staturion.com).
+Gründer von [Ampena](https://ampena.com). Freiheit braucht einen Plan.
 
-Staturion is compliance infrastructure for Florida condo and HOA associations. It preserves deadlines, documents, evidence, vendor records and operational knowledge across board, staff and service-provider changes.
+Ampena ist eine iPhone-App, die das Laden deines E-Autos plant: zuhause in den günstigsten Stunden, unterwegs entlang deiner Strecke. Du sagst, wann du los willst, den Rest plant Ampena.
 
-## Currently building
+## Woran ich gerade baue
 
-* deterministic compliance workflows
-* AI-assisted document processing
-* source-linked evidence and audit trails
-* board and staff continuity
-* vendor insurance record tracking
-* intuitive software for professional managers and volunteer boards
+* Ladeplan zuhause nach Börsenstrompreis und Ökostrom im Netz
+* Ladehalte unterwegs, passend zu Strecke und Akku
+* evcc und Home Assistant im Heim-WLAN: nur lesend, die Werte bleiben auf dem iPhone
+* eine App, die deine Woche lernt und von selbst plant
 
-## Background
+## Mittesten
 
-Real estate operations, product strategy and AI-native software development.
+Die Testversion läuft über TestFlight, derzeit nur in Deutschland: [ampena.com/testen](https://ampena.com/testen)
 
-## Current focus
+## Kontakt
 
-I am currently developing and validating Staturion with Florida condo and HOA boards, community association management companies and insurance professionals.
-
-## Contact
-
-* Website: [staturion.com](https://staturion.com)
-* LinkedIn: Add your final LinkedIn profile URL here
-
-
-<!--
-**undercoveur12-web/undercoveur12-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Web: [ampena.com](https://ampena.com)
+* Mail: jonas@ampena.com
+* LinkedIn: [jonas-dannenmaier](https://www.linkedin.com/in/jonas-dannenmaier)
